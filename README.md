@@ -58,7 +58,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (big screen):
   Webshop 
-  <img src="readme-images/productpagessbiscreen.png" width="375px" alt="screenshot van de product pagina van de paradiso website als groot scherm">
+  <img src="readme-images/productpagessbigscreen.png" width="375px" alt="screenshot van de product pagina van de paradiso website als groot scherm">
 
   #### Screenshot(s) van het hamburger menu op de eerste pagina (big screen): 
   Paradiso
